@@ -1,6 +1,6 @@
 # Novation_LaunchControlXL_midisetup_touchdesigner
 
-<img width="554" height="516" alt="スクリーンショット 2025-11-03 20 50 39" src="https://github.com/user-attachments/assets/4acae5d8-d4c4-4efe-bec1-4fe4547d178f" />
+<img width="614" height="594" alt="スクリーンショット 2025-11-03 20 51 39" src="https://github.com/user-attachments/assets/ba25e9c4-f014-41cd-beeb-9f2875c221c1" />
 
 This is a .tox file for setting Novation LaunchControl XL useing in TouchDesigner.
 If you use launchcontrol xl in touchdesigner, you can use this tox file.
